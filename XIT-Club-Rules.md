@@ -18,7 +18,7 @@ XIT Club 的前身是由 @Fatfish 建立的小天才电话手表破解团队「X
 ### 关于条规
 
 1. 条规是 XIT Club 唯一的书面性规章文件，对社团的各项事务起强制性规定作用，每个成员都应该阅读一次。
-2. 条规使用 Markdown 编写并托管在 [@livcm 的 GitHub 仓库](https://livcm.github.io/XIT-Club-Rules)，通过适当途径分享链接。
+2. 条规使用 Markdown 编写并托管在 [@livcm 的 GitHub 仓库](https://github.com/livcm/XIT-Club-Rules)，通过适当途径分享链接。
 3. 条规会依据需要修改，领导小组对条规有最终解释权。
 
 ### 黑名单
