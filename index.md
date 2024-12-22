@@ -1,4 +1,6 @@
-# XIT Club 条规
+---
+title: "XIT Club 条规"
+---
 
 ## 关于社团
 

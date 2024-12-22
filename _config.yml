@@ -1,0 +1,6 @@
+remote_theme: pages-themes/modernist
+plugins:
+- jekyll-remote-theme
+title: "XIT Club 条规"
+show_downloads: false
+lang: zh-CN
